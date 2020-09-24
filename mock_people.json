@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "first_name": "abc",
+    "last_name": "def",
+    "date_of_birth": "06/06/2015",
+    "ssn": "216-35-8613",
+    "email": "lrops0@examiner.com",
+    "ip_address": "109.242.114.27",
+    "address": {
+      "street_address": "8350 Waxwing Alley",
+      "city": "Denver",
+      "state": "CO",
+      "zip_code": "80235"
+    }
+  },
+  {
+    "id": 2,
+    "first_name": "patrick",
+    "last_name": "sommer",
+    "date_of_birth": "09/25/1970",
+    "ssn": "696-82-2342",
+    "email": "aharmar1@multiply.com",
+    "ip_address": "214.4.113.224",
+    "address": {
+      "street_address": "64 Corry Junction",
+      "city": "Amarillo",
+      "state": "TX",
+      "zip_code": "79165"
+    }
+  },
+  {
+    "id": 2,
+    "first_name": "steph",
+    "last_name": "stern",
+    "date_of_birth": "09/25/1970",
+    "ssn": "696-82-2342",
+    "email": "aharmar1@multiply.com",
+    "ip_address": "214.4.113.224",
+    "address": {
+      "street_address": "64 Corry Junction",
+      "city": "Amarillo",
+      "state": "TX",
+      "zip_code": "79165"
+    }
+  }
+]
